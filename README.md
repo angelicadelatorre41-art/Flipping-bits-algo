@@ -1,1 +1,1 @@
-# Flipping-bits-algo
+# Flipping-bits-algo A 32-bit integer has bits from 0 to 31, so flipping all bits of n is equivalent to subtracting it from 2^32 - 1 (which is 4294967295). This works because inverting bits means every 1 becomes 0 and every 0 becomes 1, so flipped = max32Bit - n.
